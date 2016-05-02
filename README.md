@@ -5,5 +5,6 @@
 <ul>
 <li><a href = "https://book.douban.com/subject/1767741/">C++ Primer, 4th</a>&nbsp&nbsp 从此入了计算机的大坑，我本来是学电子的，也是很多小伙伴入坑的Flag T_T</li>
 <li><a href = "https://book.douban.com/subject/1232061/">JavaScript权威指南</a>&nbsp&nbsp  被碎碎叫（pian）去学的，也是一个入js生态坑的Flag，这本还没看完</li>
+<li><a href = "https://book.douban.com/subject/10789820/">NodeNode.js开发指南</a>&nbsp&nbsp 只会个C++前途暗淡，果断跳进js坑</li>
 
 </ul>
