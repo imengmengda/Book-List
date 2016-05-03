@@ -12,6 +12,6 @@
 <h1>操作系统</h1>
 <li><a href = "https://book.douban.com/subject/1390650/">现代操作系统</a>&nbsp&nbsp
 操作系统的大部头，但和大部分操作系统的书一样，只讲原理没讲代码是硬伤</li>
-<li><a href = "https://book.douban.com/subject/1788421/">APUE</a>&nbsp&nbsp
-我看的第二版，Linux编程的最好的入门书（没有之一），后端面试必考，Steven经典三部曲之一</li>
+<li><a href = "https://book.douban.com/subject/1788421/">UNIX环境高级编程</a>&nbsp&nbsp
+俗称APUE，Linux编程的最好的入门书（没有之一），后端面试必考，Steven经典三部曲之一</li>
 </ul>
