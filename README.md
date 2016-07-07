@@ -28,11 +28,11 @@
 <li><a href = "https://book.douban.com/subject/1391207/">计算机网络-自顶向下方法</a>&nbsp&nbsp
 计算机网络的入门书，书里面代码多，萌新也能理解</li>
 <li><a href = "https://book.douban.com/subject/1088054/">TCP/IP详解 卷一</a>&nbsp&nbsp
-计算机网络不朽的经典，Steven三部曲之首，陈硕大神评价为“奇书”，这本书是很多程序员网络编程的开端</li>
+计算机网络不朽的经典，Steven三部曲之首，陈硕大神称为“奇书”，这本书是很多人网络编程的开端</li>
 <li><a href = "https://book.douban.com/subject/4859464/">UNIX网络编程v1</a>&nbsp&nbsp
-也算是计算机网的经典，和APUE一样出自于Steven之手，也是后端面试必考</li>
+也是网络编程的经典，和APUE一样出自于Steven之手，也是后端面试必考</li>
 <li><a href = "https://book.douban.com/subject/4118577/">UNIX网络编程v2</a>&nbsp&nbsp
-与v1不同，这本其实并不将网络，而是对APUE的补充，本质上讲得是并发编程</li>
+与v1不同，这本其实并不讲网络，而是对APUE的补充，本质上讲得是并发编程</li>
 </ul>
 <br/>
 
