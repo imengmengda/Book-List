@@ -41,9 +41,18 @@
 <li><a href = "http://www.w3school.com.cn/sql/index.asp">W3School上的SQL教程</a>&nbsp&nbsp
 入门语法，最最基本的SQL操作</li>
 </ul>
+<br/>
 
-<h3>前端</h3>
+
+<h3>WEB前端</h3>
 <ul>
 <li><a href = "http://www.w3school.com.cn/h.asp">W3School上的HTML和CSS教程</a>&nbsp&nbsp
 很多人都是从这里开始学前端的，确实HTML和CSS教程还不错</li>
+</ul>
+<br/>
+
+<h3>WEB后端</h3>
+<ul>
+<li><a href = "https://book.douban.com/subject/26274202/">Flask Web开发</a>&nbsp&nbsp
+Flask是一个很好上手的WEB后端框架，特别是对于熟悉Python语言但没开发过WEB的人</li>
 </ul>
