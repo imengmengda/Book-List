@@ -41,3 +41,9 @@
 <li><a href = "http://www.w3school.com.cn/sql/index.asp">W3School上的SQL教程</a>&nbsp&nbsp
 入门语法，最最基本的SQL操作</li>
 </ul>
+
+<h3>前端</h3>
+<ul>
+<li><a href = "http://www.w3school.com.cn/h.asp">W3School上的HTML和CSS教程</a>&nbsp&nbsp
+很多人都是从这里开始学前端的，确实HTML和CSS教程还不错</li>
+</ul>
