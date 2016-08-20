@@ -43,7 +43,7 @@
 <li><a href = "https://book.douban.com/subject/1929984/">数据库系统概念</a>&nbsp&nbsp
 数据库原理的大部头，DBA入行的敲门砖</li>
 <li><a href = "https://book.douban.com/subject/4831446/">Oracle Database 11g数据库管理艺术 </a>&nbsp&nbsp
-oracle DBA必读，身为DBA不能不会oracle</li>
+oracle DBA必读，个人认为DBA入门时经验重于理论</li>
 </ul>
 <br/>
 
