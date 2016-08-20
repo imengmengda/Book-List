@@ -40,6 +40,8 @@
 <ul>
 <li><a href = "http://www.w3school.com.cn/sql/index.asp">W3School上的SQL教程</a>&nbsp&nbsp
 入门语法，最最基本的SQL操作</li>
+<li><a href = "https://book.douban.com/subject/1929984/">数据库系统概念</a>&nbsp&nbsp
+数据库原理的大部头，DBA入行的敲门砖</li>
 </ul>
 <br/>
 
