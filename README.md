@@ -15,6 +15,8 @@
 
 <h3>操作系统</h3>
 <ul>
+<li><a href = "https://book.douban.com/subject/2109679/">操作系统概念</a>&nbsp&nbsp
+操作系统界的“龙书”，新手入门操作系统的首推，深入浅出，也适合当工具书保存着</li>
 <li><a href = "https://book.douban.com/subject/1390650/">现代操作系统</a>&nbsp&nbsp
 操作系统的大部头，但和大部分操作系统的书一样，只讲原理没讲代码是硬伤</li>
 <li><a href = "https://book.douban.com/subject/1788421/">UNIX环境高级编程</a>&nbsp&nbsp
