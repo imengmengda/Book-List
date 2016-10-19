@@ -40,7 +40,7 @@
 
 <h3>数据库</h3>
 <ul>
-<li><a href = "https://book.douban.com/reading/37658612/">Oracle编程艺术：深入理解数据库体系结构（第3版）</a>&nbsp&nbsp
+<li><a href = "https://book.douban.com/reading/37658612/">Oracle编程艺术：深入理解数据库体系结构,3th</a>&nbsp&nbsp
 久负盛名的数据库，大师Tom的力作，放在第一位</li>
 <li><a href = "http://www.w3school.com.cn/sql/index.asp">W3School上的SQL教程</a>&nbsp&nbsp
 入门语法，最最基本的SQL操作</li>
