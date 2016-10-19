@@ -40,12 +40,14 @@
 
 <h3>数据库</h3>
 <ul>
+<li><a href = "https://book.douban.com/reading/37658612/">Oracle编程艺术：深入理解数据库体系结构（第3版）</a>&nbsp&nbsp
+久负盛名的Oracle经典书籍，大师Tom的力作，这本书始终放在第一位</li>
 <li><a href = "http://www.w3school.com.cn/sql/index.asp">W3School上的SQL教程</a>&nbsp&nbsp
 入门语法，最最基本的SQL操作</li>
 <li><a href = "https://book.douban.com/subject/1929984/">数据库系统概念</a>&nbsp&nbsp
 数据库原理的大部头，DBA入行的敲门砖</li>
 <li><a href = "https://book.douban.com/subject/4831446/">Oracle Database 11g数据库管理艺术 </a>&nbsp&nbsp
-oracle DBA必读，个人以为DBA入门时经验重于理论</li>
+这本书啥都有，但定位有点尴尬，既然啥都有了，那和去看Oracle官方文档有什么区别</li>
 </ul>
 <br/>
 
