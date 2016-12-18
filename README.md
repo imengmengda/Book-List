@@ -48,6 +48,8 @@
 数据库原理的大部头，DBA入行的敲门砖</li>
 <li><a href = "https://book.douban.com/subject/4831446/">Oracle Database 11g数据库管理艺术 </a>&nbsp&nbsp
 感觉和看Oracle官方文档没啥大区别，不是很推荐</li>
+<li><a href = "https://book.douban.com/subject/6068947/">MongoDB权威指南</a>&nbsp&nbsp
+基本操作讲得太多了，这些直接看官方文档就行了</li>
 </ul>
 <br/>
 
