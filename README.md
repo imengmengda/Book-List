@@ -13,6 +13,13 @@
 
 <br/>
 
+<h3>算法</h3>
+<ul>
+<li><a href = "https://book.douban.com/subject/1152912/">算法导论</a>&nbsp&nbsp
+传世经典/li>
+</ul>
+<br/>
+
 <h3>操作系统</h3>
 <ul>
 <li><a href = "https://book.douban.com/subject/2109679/">操作系统概念</a>&nbsp&nbsp
