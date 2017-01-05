@@ -16,7 +16,7 @@
 <h3>算法</h3>
 <ul>
 <li><a href = "https://book.douban.com/subject/1152912/">算法导论</a>&nbsp&nbsp
-传世经典/li>
+传世经典</li>
 </ul>
 <br/>
 
