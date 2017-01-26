@@ -73,5 +73,5 @@
 <li><a href = "https://book.douban.com/subject/26274202/">Flask Web开发</a>&nbsp&nbsp
 Flask是一个很好上手的WEB后端框架，特别是对于熟悉Python语言但没开发过WEB的人</li>
 <li><a href = "https://beego.me/">BEGOO WEB开发</a>&nbsp&nbsp
-Golang一个十分流行的WEB框架，正在学习中，实际上Go开发WEB可以不用框架</li>
+Golang一个十分流行的WEB框架，正在学习中，实际上Golang开发小型WEB可以不用框架</li>
 </ul>
