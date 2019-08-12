@@ -57,6 +57,8 @@
 感觉和看Oracle官方文档没啥大区别，不是很推荐</li>
 <li><a href = "https://book.douban.com/subject/6068947/">MongoDB权威指南</a>&nbsp&nbsp
 基本操作讲得太多了，这些直接看官方文档就行了</li>
+<li><a href = "https://book.douban.com/subject/26334785/">图数据库</a>&nbsp&nbsp
+总体来说评价一般。在华为的时候工作相关搞了下图数据库，这书讲得太浅了，主要针对cypher语法和neo4j，感觉还是gremlin有前途</li>
 </ul>
 <br/>
 
