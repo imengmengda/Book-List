@@ -42,6 +42,8 @@
 也是网络编程的经典，和APUE一样出自于Steven之手，也是后端面试必考</li>
 <li><a href = "https://book.douban.com/subject/4118577/">UNIX网络编程v2</a>&nbsp&nbsp
 与v1不同，这本其实并不讲网络，而是对APUE的补充，本质上讲得是并发编程</li>
+<li><a href = "https://book.douban.com/subject/24722612/">深入理解jvm</a>&nbsp&nbsp
+jvm入门书，深入浅出，Java面试必备</li>
 </ul>
 <br/>
 
